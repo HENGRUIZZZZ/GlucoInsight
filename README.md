@@ -6,7 +6,7 @@
 
 > Build in AdventureX 2024, by Hengrui Zhang, Sichao He, Rong Han, Zengyao Cheng and Yi He
 
-> This project have won the "New workflow of AI" track chapion of AdventureX 2024
+> This project have won the "New workflow of AI" track champion of AdventureX 2024
 
 > If you want to collaborate and know more about what we are doing, please cantact Hengrui at rmhizha@ucl.ac.uk
 
