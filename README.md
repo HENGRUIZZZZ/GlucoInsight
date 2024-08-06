@@ -24,12 +24,12 @@ Source: "The Glucose Revolution" by Jesse Anzospeh.
 
 ### **GlucoType, the new glucose test that quantifies your health**
 
-! [glucotypeimg](README.assets/glucotypeimg.jpg)
+![glucotypeimg](README.assets/glucotypeimg.jpg)
 
 ### **GlucoMeal 'frees' you from the tedious process of diet management** ! 
 
-! [glucomealimg](README.assets/glucomealimg.jpg)
+![glucomealimg](README.assets/glucomealimg.jpg)
 
 ### **GlucoAgent The health assistant that knows your body better than you do** ! 
 
-! [glucoagentimg](README.assets/glucoagentimg.jpg)
+![glucoagentimg](README.assets/glucoagentimg.jpg)
