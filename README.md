@@ -1,6 +1,6 @@
 # **GlucoInsight：Smart Health Management Framework based on CGM**
 
-![1721331465358](README.assets/1721331465358.png)
+![glucoinsightimg](README.assets/glucoinsightimg.jpg)
 
 **No more hand input, record your food intake automatically**
 
@@ -24,16 +24,12 @@ Source: "The Glucose Revolution" by Jesse Anzospeh.
 
 ### **GlucoType, the new glucose test that quantifies your health**
 
-! [1721331374768](README.assets/1721331374768.png)
+! [glucotypeimg](README.assets/glucotypeimg.jpg)
 
 ### **GlucoMeal 'frees' you from the tedious process of diet management** ! 
 
-! [1721331398209](README.assets/1721331398209.png)
+! [glucomealimg](README.assets/glucomealimg.jpg)
 
 ### **GlucoAgent The health assistant that knows your body better than you do** ! 
 
-! [1721331416116](README.assets/1721331416116.png)
-
-### **GlucoSport The beat goes on! 
-
-! [1721331443760](README.assets/1721331443760.png)
+! [glucoagentimg](README.assets/glucoagentimg.jpg)
