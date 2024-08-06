@@ -10,7 +10,7 @@
 
 > If you want to collaborate and know more about what we are doing, please cantact Hengrui at rmhizha@ucl.ac.uk
 
-### ‘**Do [Normal People] need to monitor their glucose?** 
+### **Do Normal People need to monitor their glucose?** 
 
 **Glucose literally affects everyone.** 
 This includes our mood, sleep, weight, skin, immune system health, risk of heart disease, and chances of conception. A previous study showed that only 12% of Americans have a healthy metabolism, which means that only 12% of Americans have perfectly functioning bodies, including having healthy blood sugar levels. **In other words, 9 out of 10 of the people closest to us may be riding the "glucose roller coaster" without even realizing it**."
