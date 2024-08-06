@@ -1,29 +1,33 @@
-# **GlucoInsight 血糖慧测**
+# **GlucoInsight：Smart Health Management Framework based on CGM**
 
 ![1721331465358](README.assets/1721331465358.png)
 
-**告别手动记录，健康尽在掌握。**
+**No more hand input, record your food intake automatically**
 
-> Build in AdventureX 2024。
+> Build in AdventureX 2024, by Hengrui Zhang, Sichao He, Rong Han, Zengyao Cheng and Yi He
+> This project have won the "New workflow of AI" track chapion of AdventureX 2024
+> If you want to collaborate and know more about what we are doing, please cantact Hengrui at rmhizha@ucl.ac.uk
 
 ### ‘**正常人’需要控糖吗?** 
 
-“葡萄糖实实在在地影响着每一个人。包括我们的心情、睡眠、体重、皮肤、免疫系统健康，患心脏病的风险以及受孕的机会。此前一项研究表明，只有12% 的美国人的代谢是健康的，这意味着只有12%的美国人拥有完美运作的身体，包括拥有健康的血糖水平。**换言之，和我们最亲密的10个人中的9个人，可能都在不知不觉中坐上了“葡萄糖过山车”**。” 来源： “控糖革命 The Glucose Revolution” [法]杰西·安佐斯佩 著
+"Glucose literally affects everyone. This includes our mood, sleep, weight, skin, immune system health, risk of heart disease, and chances of conception. A previous study showed that only 12% of Americans have a healthy metabolism, which means that only 12% of Americans have perfectly functioning bodies, including having healthy blood sugar levels. **In other words, 9 out of 10 of the people closest to us may be riding the "glucose roller coaster" without even realizing it**." Source: "The Glucose Control Revolution The Glucose Revolution" [French] by Jesse Anzospeh
 
-为什么是‘血糖’，而不是‘卡路里’? 血糖水平的剧烈波动会导致能量水平的不稳定、情绪波动、饥饿感增加以及长期健康问题。平稳的血糖水平有助于保持稳定的能量和情绪，研究显示，关注血糖可以多方面提高健康水平。食物的质量比数量更重要。高质量的食物（如富含纤维的食物）有助于维持稳定的血糖水平，而不是单纯减少热量摄入。单纯关注卡路里更容易陷入节食焦虑。 来源： “控糖革命 The Glucose Revolution” [法]杰西·安佐斯佩 著
+Why 'blood sugar' and not 'calories'? Dramatic fluctuations in blood sugar levels can lead to erratic energy levels, mood swings, increased hunger, and long-term health problems. Smooth blood sugar levels help maintain stable energy and mood, and research shows that keeping an eye on blood sugar can improve health in many ways. Quality of food is more important than quantity. High-quality foods (such as fiber-rich foods) help maintain stable blood sugar levels, rather than simply reducing calorie intake. Focusing on calories alone makes it easier to fall into dieting anxiety. Source: "The Glucose Revolution" by Jesse Anzospeh.
 
-### **GlucoType 全新糖型检测，量化你的健康**
+## **Here are our major features implemented ** 
 
-![1721331374768](README.assets/1721331374768.png)
+### **GlucoType, the new glucose test that quantifies your health**
 
-### **GlucoMeal ‘解放’饮食管理繁琐流程** 
+! [1721331374768](README.assets/1721331374768.png)
 
-![1721331398209](README.assets/1721331398209.png)
+### **GlucoMeal 'frees' you from the tedious process of diet management** ! 
 
-### **GlucoAgent 比你还懂你身体的健康助理** 
+! [1721331398209](README.assets/1721331398209.png)
 
-![1721331416116](README.assets/1721331416116.png)
+### **GlucoAgent The health assistant that knows your body better than you do** ! 
 
-### **GlucoSport 放肆运动 节奏不停** 
+! [1721331416116](README.assets/1721331416116.png)
 
-![1721331443760](README.assets/1721331443760.png)
+### **GlucoSport The beat goes on! 
+
+! [1721331443760](README.assets/1721331443760.png)
