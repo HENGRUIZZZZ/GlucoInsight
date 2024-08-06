@@ -14,7 +14,7 @@
 
 Why 'blood sugar' and not 'calories'? Dramatic fluctuations in blood sugar levels can lead to erratic energy levels, mood swings, increased hunger, and long-term health problems. Smooth blood sugar levels help maintain stable energy and mood, and research shows that keeping an eye on blood sugar can improve health in many ways. Quality of food is more important than quantity. High-quality foods (such as fiber-rich foods) help maintain stable blood sugar levels, rather than simply reducing calorie intake. Focusing on calories alone makes it easier to fall into dieting anxiety. Source: "The Glucose Revolution" by Jesse Anzospeh.
 
-## **Here are our major features implemented ** 
+## Here are our major features implemented
 
 ### **GlucoType, the new glucose test that quantifies your health**
 
