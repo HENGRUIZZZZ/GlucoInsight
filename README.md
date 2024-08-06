@@ -5,7 +5,9 @@
 **No more hand input, record your food intake automatically**
 
 > Build in AdventureX 2024, by Hengrui Zhang, Sichao He, Rong Han, Zengyao Cheng and Yi He
+
 > This project have won the "New workflow of AI" track chapion of AdventureX 2024
+
 > If you want to collaborate and know more about what we are doing, please cantact Hengrui at rmhizha@ucl.ac.uk
 
 ### ‘**正常人’需要控糖吗?** 
